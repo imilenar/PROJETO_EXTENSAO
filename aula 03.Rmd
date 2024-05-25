@@ -1,0 +1,8 @@
+---
+title: "aula 03"
+author: "imilenar"
+date: "2024-05-25"
+output: html_document
+---
+
+aula de introdução
